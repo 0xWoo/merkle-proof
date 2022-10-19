@@ -1,5 +1,5 @@
 [package]
-name = "merkle_proof"
+name = "merkle-proof"
 version = "0.1.0"
 edition = "2021"
 
